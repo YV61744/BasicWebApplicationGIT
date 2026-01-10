@@ -18,7 +18,7 @@ public class TestServlet extends HttpServlet {
      * Default constructor updated. 
      */
     public TestServlet() {
-		system.out.println("New Line added Here");
+		System.out.println("New Line added Here from VS Code Branch");
         // TODO Auto-generated constructor stub
     }
 
@@ -27,7 +27,7 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served at code updated here: ").append(request.getContextPath());
+		response.getWriter().append("Served at code updated here from VS Code Branch: ").append(request.getContextPath());
 	}
 
 	/**
