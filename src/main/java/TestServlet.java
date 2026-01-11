@@ -26,6 +26,9 @@ public class TestServlet extends HttpServlet {
 		system.out.println("New Line added Here");
         // TODO Auto-generated constructor stub
     }
+	 public newmethodVSCODEBranch() {
+
+		System.out.println("New method added Here from Branch");
 	 public newmethodMASTERBranch() {
 
 		System.out.println("New method added Here from MASTER");
