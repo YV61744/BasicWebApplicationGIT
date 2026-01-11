@@ -28,7 +28,7 @@ public class TestServlet extends HttpServlet {
     }
 	 public newmethodVSCODEBranch() {
 
-		System.out.println("New method added Here from Branch");
+		System.out.println("New method added Here from Branch upd");
 	 public newmethodMASTERBranch() {
 
 		System.out.println("New method added Here from MASTER UPD");
