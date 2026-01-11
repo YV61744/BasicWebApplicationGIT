@@ -36,6 +36,7 @@ public class TestServlet extends HttpServlet {
 		int b = 20;
     
 		System.out.println("New method added Here from Branch upd");
+	 }
 	 public newmethodMASTERBranch() {
 
 		System.out.println("New method added Here from MASTER UPD");
